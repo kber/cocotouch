@@ -1,7 +1,8 @@
 # CocoTouch
 
 > CocoTouch 可编程互动声音模块
-> [详情](http://cocotouch.cn) 
+
+[CocoTouch 可编程声音模块](http://oww3j1zp7.bkt.clouddn.com/CocoTouch.webp)
 
 ## 使用 SDK
 
