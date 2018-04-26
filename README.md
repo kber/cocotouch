@@ -7,8 +7,8 @@
 
 点击 [CocoTouch SDK 及依赖库](http://baidu.com) 下载相关文件，解压之后放到 Arduino IDE 的 Libraries 文件夹下。（暂未发布到 Arduino 官方 SDK 管理库中）
 
-> Windows: <Arduino 安装目录>\Arduino\libraries （默认: C:\Program Files\Arduino\libraries 32位系统）
-> Mac: ~/Documents/Arduino/libraries
+* Windows: <Arduino 安装目录>\Arduino\libraries （默认: C:\Program Files\Arduino\libraries 32位系统）
+* Mac: ~/Documents/Arduino/libraries
 
 解压之后可以通过，打开 Arduino ，点击「文件」>「示例」> 「CocoTouch」>「piano」加载示例。接着，USB 连接 CocoTouch 模块，选择对应的串口号，点击「上传」。
 
