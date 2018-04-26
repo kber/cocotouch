@@ -83,7 +83,7 @@ setup() {
 
 ### setMIDIProgram(program, channel)
 
-在指定的通道 `channel` （范围：1 ~ 15）中设定 MIDI 的音色，目前支持所有 GM2 包含的乐器音色，共 128 种，可以访问 (GM2 音色列表)[https://baike.baidu.com/item/gm/498867] 访问详情。
+在指定的通道 `channel` （范围：1 ~ 15）中设定 MIDI 的音色，目前支持所有 GM2 包含的乐器音色，共 128 种，可以访问 [GM2 音色列表](https://baike.baidu.com/item/gm/498867) 访问详情。
 
 ```cpp
 setup() {
