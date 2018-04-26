@@ -4,7 +4,7 @@
 
 ## 如何使用源代码
 
-点击 [CocoTouch SDK 及依赖库](http://baidu.com) 下载相关文件，解压之后放到 Arduino IDE 的 Libraries 文件夹下。（暂未发布到 Arduino 官方 SDK 管理库中）
+点击 [CocoTouch SDK 及依赖库](http://baidu.com) 下载相关文件，解压之后放到 Arduino IDE 的 Libraries 文件夹下。（暂未发布到 Arduino 官方 SDK 管理库中）
 
 * Windows: <Arduino 安装目录>\Arduino\libraries （默认: C:\Program Files\Arduino\libraries 32位系统）
 * Mac: ~/Documents/Arduino/libraries
@@ -41,7 +41,7 @@ setup() {
 
 ### setAudioMode(AUDIO_MODE_MIDI | AUDIO_MODE_FILE)
 
-切换 `Audio` 和 `MIDI` 模式。
+切换 `Audio` 和 `MIDI` 模式。
 
 ```cpp
 setup() {
@@ -52,7 +52,7 @@ setup() {
 
 ### playAudioFile(filename)
 
-在开启音频文件模式下，输入文件名播放文件，文件只能识别在 SD 卡根目录下。如果想顺序播放所有文件可以调用 `playAudioFiles`。（两个方法均为同步方法）
+在开启音频文件模式下，输入文件名播放文件，文件只能识别在 SD 卡根目录下。如果想顺序播放所有文件可以调用 `playAudioFiles`。（两个方法均为同步方法）
 
 ```
 setup() {
