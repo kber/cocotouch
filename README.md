@@ -1,9 +1,9 @@
 # CocoTouch
 
 > CocoTouch 可编程互动声音模块
-> [详情](http://cocotouch.cn) 购买需添加
+> [详情](http://cocotouch.cn) 
 
-## 如何使用源代码
+## 使用 SDK
 
 点击 [CocoTouch SDK 及依赖库](http://baidu.com) 下载相关文件，解压之后放到 Arduino IDE 的 Libraries 文件夹下。（暂未发布到 Arduino 官方 SDK 管理库中）
 
