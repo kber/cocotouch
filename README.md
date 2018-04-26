@@ -13,7 +13,11 @@
 * Windows: <Arduino 安装目录>\Arduino\libraries （默认: C:\Program Files\Arduino\libraries 32位系统）
 * Mac: ~/Documents/Arduino/libraries
 
-解压之后打开 Arduino ，点击「文件」>「示例」> 「CocoTouch」>「piano」加载示例。接着，USB 连接 CocoTouch 模块，选择对应的串口号，点击「上传」。
+解压之后打开 Arduino：
+
+1. 点击「工具」，设置开发板为`Arduino Nano`，处理器为`ATmega328`。
+2. 点击「文件」>「示例」> 「CocoTouch」>「piano」加载示例。
+3. USB 连接 CocoTouch 模块，选择对应的串口号，点击「上传」。
 
 ## 制作类课程
 
