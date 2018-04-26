@@ -34,6 +34,20 @@
 
 ## API 说明
 
+* [<cocotouch.h>](#cocotouchh)
+* [begin()](#begin)
+* [setAudioMode(AUDIO_MODE_MIDI | AUDIO_MODE_FILE)](#setaudiomodeaudio_mode_midi--audio_mode_file)
+* [playAudioFile(filename)](#playaudiofilefilename)
+* [setMIDIProgram(program, channel)](#setmidiprogramprogram-channel)
+* [playMIDINote(note, velocity, channel)](#playmidinotenote-velocity-channel-和-stopmidinote)
+* [stopMIDINote(note, velocity, channel)](#playmidinotenote-velocity-channel-和-stopmidinote)
+* [getTouched(index)](#gettouchedindex)
+* [getTouchPinValue(index)](#gettouchpinvalueindex-和-gettouchpinbasevalueindex)
+* [getTouchPinBaseValue(index)](#gettouchpinvalueindex-和-gettouchpinbasevalueindex)
+* [setVolume(vol)](#setvolumevol)
+* [sendMessage(message)](#sendmessagemessage)
+* [sendFlashMessage(message)](#sendmessagemessage)
+
 ### <cocotouch.h>
 
 代码文件引用头文件，并且在使用前创建示例。
@@ -94,7 +108,7 @@ setup() {
 
 想使用 GM2 中定义的打击乐器，使用通道 `channel` 为 0。
 
-### playMIDINote(note, velocity, channel)
+### playMIDINote(note, velocity, channel) 和 stopMIDINote
 
 在指定的通道 `channel` 中播放音符 `note`，以大钢琴音色为例，可用的 MIDI 音符范围为 21 ~ 108，分别映射了标准 88 键钢琴低音到高音的按键，其中 60 为中央 C 的 DO 的发音。
 
