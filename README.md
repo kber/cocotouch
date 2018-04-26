@@ -104,6 +104,7 @@ setup() {
   cocotouch.setMIDIProgram(0, 1); // 选择大钢琴的音色
   cocotouch.playMIDINote(60, 127, 1); // 播放 Middle C 的 DO 的声音
 }
+```
 
 如果是使用 GM2 中的打击乐调用方式有些不同，注意：(GM2 音色列表)[https://baike.baidu.com/item/gm/498867] 查询到的 MIDI 数字对应的是音符数值，是在 `playMIDINote` 中使用。
 
