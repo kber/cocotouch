@@ -6,7 +6,9 @@
 
 ## 使用 SDK
 
-点击 [CocoTouch SDK 及依赖库](http://baidu.com) 下载相关文件，解压之后放到 Arduino IDE 的 Libraries 文件夹下。（暂未发布到 Arduino 官方 SDK 管理库中）
+> 暂未发布到 Arduino 官方 SDK 管理库中
+
+点击 [CocoTouch SDK 及依赖库](http://baidu.com) 下载相关文件，解压之后放到 Arduino IDE 的 Libraries 文件夹下。
 
 * Windows: <Arduino 安装目录>\Arduino\libraries （默认: C:\Program Files\Arduino\libraries 32位系统）
 * Mac: ~/Documents/Arduino/libraries
