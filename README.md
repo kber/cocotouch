@@ -2,7 +2,7 @@
 
 > CocoTouch 可编程互动声音模块 **Arduino AT HEART**
 
-![CocoTouch 可编程声音模块](http://oww3j1zp7.bkt.clouddn.com/CocoTouch.webp?imageView2/0/w/400)
+![CocoTouch 可编程声音模块](http://assets.cdn.cocotouch.cn/CocoTouch.webp?imageView2/0/w/400)
 
 ## 使用 SDK
 
