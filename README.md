@@ -30,7 +30,7 @@
 * 钢琴 piano.ino
 * 打击乐器 jazzdrums.ino
 * 编曲 music_compose.ino
-* 吃豆人 pacman.ino [「吃豆人游戏」](https://120.77.208.153/examples/pacman/)，触控 0 ~ 3 四个触控分别为“左”“上”“右”“下”。
+* 吃豆人 pacman.ino [「吃豆人游戏」](https://demo.cocotouch.cn/examples/pacman/)，触控 0 ~ 3 四个触控分别为“左”“上”“右”“下”。
 
 持续更新中...
 
