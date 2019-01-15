@@ -21,7 +21,7 @@
 
 ## 制作类课程
 
-* [吉他制作](https://shimo.im/doc/OKPamtLaHwE4DjzO?r=238DY8/%E3%80%8CCocoTouch%20%E4%B9%90%E5%99%A8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E6%99%BA...%E5%90%89%E4%BB%96%E3%80%8D)
+* [吉他制作](https://shimo.im/doc/OKPamtLaHwE4DjzO?r=238DY8/「CocoTouch%20乐器设计与智...吉他」)
 
 ## 代码示例
 
